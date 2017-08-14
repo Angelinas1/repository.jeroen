@@ -17,6 +17,8 @@ Where type is one of the following:
 -   movies
 -   episodes
 
-
 ### Credits
 This script was created by Unfledged. Script is based upon service.library.data.provider, itself based upon service.skin.widgets.
+
+### License
+GNU General Public License v2.0
