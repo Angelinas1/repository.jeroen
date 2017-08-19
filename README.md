@@ -1,5 +1,5 @@
 # repository.jeroen
-Beta releases of my skins and other add-ons for Kodi
+Beta releases of my skins and other add-ons for Kodi, and add-ons by other authors for testing purposes. Redistribution of those add-ons with permission from the author.
 
 ## License
 All software on this repository is licensed under a [Attribution-NonCommercial-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-nc-sa/3.0/) unless stated otherwise.
