@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="repository.jeroen" name="Jeroen's Repository" version="1.0.2" provider-name="Jeroen">
-	<requires>
-		<import addon="xbmc.addon" version="12.0.0"/>
-	</requires>
 	<extension point="xbmc.addon.repository" name="Jeroen's Repository">
-		<info>https://raw.github.com/jeroenpardon/repository.jeroen/master/addons.xml</info>
-		<checksum>https://raw.github.com/jeroenpardon/repository.jeroen/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.github.com/jeroenpardon/repository.jeroen/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/jeroenpardon/repository.jeroen/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/jeroenpardon/repository.jeroen/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/jeroenpardon/repository.jeroen/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Jeroen's Repository</summary>
 		<description>Beta releases of the Grid skin and other add-ons.</description>
-		<disclaimer></disclaimer>
 		<platform>all</platform>
 		<license>Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
 		<source>https://github.com/jeroenpardon/repository.jeroen/</source>
