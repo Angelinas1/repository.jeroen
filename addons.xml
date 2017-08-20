@@ -5,9 +5,9 @@
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.repository" name="Jeroen's Repository">
-		<info>https://raw.githubusercontent.com/jeroenpardon/repository.jeroen/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/jeroenpardon/repository.jeroen/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/jeroenpardon/repository.jeroen/master/</datadir>
+		<info>https://raw.github.com/jeroenpardon/repository.jeroen/master/addons.xml</info>
+		<checksum>https://raw.github.com/jeroenpardon/repository.jeroen/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/jeroenpardon/repository.jeroen/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Jeroen's Repository</summary>
